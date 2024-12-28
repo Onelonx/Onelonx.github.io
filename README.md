@@ -9,12 +9,9 @@
   <body>
     <nav id="navbar">
       <header>How to catch a Goose</header>
-        <a class="nav-link" href="#section_1">Section 1
-        <a class="nav-link" href="#section_2">Section 2
-        <a class="nav-link" href="#section_3">Section 3
-        <a class="nav-link" href="#section_4">Section 4
-        <a class="nav-link" href="#section_5">Section 5
-        </a>
+        <a class="nav-link" href="#section_1">Section 1</a>
+        <a class="nav-link" href="#section_2">Section 2</a>
+        <a class="nav-link" href="#section_3">Section 3</a>
     </nav>
     <main id="main-doc">
       <h1>How to catch a Goose</h1>
@@ -38,81 +35,27 @@
           </ol>
         </p>
         <p>
-          <code></code>
+          <code>Ctrl+C</code>
         </p>
         <p>
-          <code></code>
+          <code>Ctrl+P</code>
         </p>
         <p>
-          <code></code>
+          <code>Ctrl+X</code>
         </p>
       </section>
       <section class="main-section" id="section_2">
         <header>Section 2</header>
         <p>
-          
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
+           Content of section 2
         </p>
       </section>
-
       <section class="main-section" id="section_3">
         <header>Section 3</header>
         <p>
-         
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-      </section>
-
-      <section class="main-section" id="section_4">
-        <header>Section 4</header>
-        <p>
-      
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-      </section>
-
-      <section class="main-section" id="section_5">
-        <header>Section 5</header>
-        <p>
-          
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
-        </p>
-        <p>
-          <code></code>
+         Content of section 3
         </p>
       </section>
     </main>
   </body>
-
-
-
   </hmtl>
