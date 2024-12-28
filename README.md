@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+  <html>
   <head>
-      <title>How to catch a Goose</title>
-      <meta charset="UTF-8"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-      <link rel="stylesheet" href="index.css"/>
-    </head>
+    <title>How to catch a Goose</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="index.css"/>
+  </head>
   <body>
     <nav id="navbar">
       <header>How to catch a Goose</header>
@@ -12,11 +13,11 @@
         <a class="nav-link" href="#section_2">Section 2</a>
         <a class="nav-link" href="#section_3">Section 3</a>
     </nav>
-    <main id="main-doc">
-      <h1>How to catch a Goose</h1>
-      <section class="main-section" id="section_1">
-        <header>Section 1</header>
-        <p>
+  <main id="main-doc">
+    <h1>How to catch a Goose</h1>
+    <section class="main-section" id="section_1">
+      <header>Section 1</header>
+      <p>
           <ol>
             <li>Item 1</li>
             <li>
@@ -57,4 +58,4 @@
       </section>
     </main>
   </body>
-  </hmtl>
+    </hmtl>
