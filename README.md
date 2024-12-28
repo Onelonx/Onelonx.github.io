@@ -1,4 +1,3 @@
-# Onelonx.github.io
 <!DOCTYPE html>
   <html>
     <head>
@@ -7,20 +6,16 @@
       <link rel="stylesheet" href="styles.css"/>
       <title>How to catch a Goose</title>
     </head>
-
   <body>
     <nav id="navbar">
       <header>How to catch a Goose</header>
-
         <a class="nav-link" href="#section_1">Section 1
         <a class="nav-link" href="#section_2">Section 2
         <a class="nav-link" href="#section_3">Section 3
         <a class="nav-link" href="#section_4">Section 4
         <a class="nav-link" href="#section_5">Section 5
         </a>
-        
     </nav>
-
     <main id="main-doc">
       <h1>How to catch a Goose</h1>
       <section class="main-section" id="section_1">
@@ -52,7 +47,6 @@
           <code></code>
         </p>
       </section>
-
       <section class="main-section" id="section_2">
         <header>Section 2</header>
         <p>
