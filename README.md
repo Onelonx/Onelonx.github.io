@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>How to CATCH a goose</tite>
