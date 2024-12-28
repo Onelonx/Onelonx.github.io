@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html
   <html>
   <head>
     <title>How to catch a Goose</title>
