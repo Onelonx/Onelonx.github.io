@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-  <html>
-    <head>
+  <head>
+      <title>How to catch a Goose</title>
       <meta charset="UTF-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <link rel="stylesheet" href="styles.css"/>
-      <title>How to catch a Goose</title>
     </head>
   <body>
     <nav id="navbar">
