@@ -1,6 +1,7 @@
 <!DOCTYPE html
 <html>
   <head>
+    <title>How to CATCH a goose</tite>
     <!--- No title as config.yml defines in Github Pages --->
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
