@@ -1,0 +1,43 @@
+@media (prefers-reduced-motion:no-preference){
+* {
+  scroll-behaviour:smooth;
+}
+}
+
+body {
+  font-family:helvetica;
+  display:block;
+}
+
+nav{
+  display:block;
+  position:fixed;
+  float:left;/*doesnt change anything*/
+  width:20%;
+  top:0px;
+  left:0px; 
+  height:100vh;
+  padding:0px;
+  margin:0px;
+  z-index:1;
+  border-right:solid grey;
+}
+
+nav header{
+  font-size:20px;
+  text-align:center;
+  border-bottom:solid grey;
+  padding:30px 0px;
+}
+
+nav a {
+  display:block;
+  padding:10px 10px;
+  border-bottom: solid grey;
+}
+
+main{
+  z-index:0;
+  margin-left:20%;
+  padding: 0px 40px
+}
